@@ -25,7 +25,7 @@ You can download the javascript file from dist/main.js of this repository. Then 
 
 ```javascript
 
-require('cp-classlist');
+var cpClassList = require('cp-classlist');  // If it was installed via npm else skip this line
 
 var element = document.getElementById('id'); // Or you can use querySelector
 
