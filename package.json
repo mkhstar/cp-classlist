@@ -1,0 +1,16 @@
+{
+  "name": "cp-classlist",
+  "version": "1.0.0",
+  "description": "A cross platform element classlist manipulation",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "parcel src/main.js"
+  },
+  "keywords": [
+    "classlist",
+    "class",
+    "classname"
+  ],
+  "author": "Kusi Musah Hussein",
+  "license": "MIT"
+}
