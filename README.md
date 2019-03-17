@@ -4,11 +4,21 @@ Cross Platform ClassList is a cross platform library (IE8+) used for manipulatin
 
 ## Installation
 
+### First Option
 Use the package manager [npm] to install cp-classlist.
+
 
 ```bash
 npm install cp-classlist
 ```
+
+### Second Option
+You can download the javascript file from dist/main.js of this repository. Then above the closing body tag import it like
+```html
+<script src="./main.js"> </script> <!-- If it is in this directory -->
+
+```
+
 
 ## Usage
 
